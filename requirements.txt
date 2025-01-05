@@ -1,6 +1,7 @@
-streamlit
-Pillow
-numpy
 ultralytics
-opencv-python==4.6.0.66
+opencv-python-headless==4.6.0.66
+torch==1.12.1
+streamlit
 pandas
+numpy
+Pillow
