@@ -1,4 +1,4 @@
-pip install --upgrade pip setuptools wheel
+streamlit
 absl-py==2.1.0
 altair==5.2.0
 annotated-types==0.7.0
