@@ -1,7 +1,4 @@
-ultralytics
+ultralytics==8.3.57
 opencv-python-headless==4.6.0.66
-streamlit
-pandas
-numpy
-Pillow
 torch==2.0.1
+streamlit==1.41.1
