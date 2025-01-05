@@ -50,7 +50,7 @@ st.markdown(page_bg_img, unsafe_allow_html=True)
 # --- Functions ---
 def load_model():
     """Load the YOLO model trained on the custom Wild Animals dataset."""
-    return YOLO("C:/Users/anasp/runs/detect/train/weights/best.pt")
+    return YOLO("./runs/detect/train/weights/best.pt")
 
 def preprocess_image(image):
     """Convert PIL image to numpy array for processing."""
